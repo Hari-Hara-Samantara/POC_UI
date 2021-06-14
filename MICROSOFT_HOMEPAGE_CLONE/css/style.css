@@ -478,4 +478,25 @@ main-nav ul li a{
 .xbox p{
     margin: 10px 0 20px;
 >>>>>>> 9e0bd6c4730f4bc1de31183faab794aa6f772d96
+ome-cards{
+        grid-template-columns: 1fr;
+    }
+
+    .links .links-inner{
+        grid-template-columns: 1fr;
+    }
+
+    .links .links-inner ul{
+        margin-bottom: 20px;
+    }
+
+    .footer div i{
+        margin-right: 10px;
+    }
+    
+  
+    .footer li{
+        padding: 5px;
+        margin: 5px;
+    }
 }
